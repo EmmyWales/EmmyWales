@@ -1,6 +1,6 @@
-#  <h1>🐘Emmy Wales</h1>
+#  🐘 Emmy Wales
 
-  <h3>Mobile Developer, Programmer</h3>
+  **'Mobile Developer, Programmer'**
  
  Hey there! I'm ADEWALE Emmanuel Adeyanju 👨🏽‍💻,  a passionate mobile developer with a focus on building awesome user experiences using Flutter. I enjoy turning complex problems into clean and efficient code. My goal is to create impactful and user-friendly mobile applications that solve real-world challenges. I also write other programming languages such as; Dart, Python, C++, C#, HTML
 
@@ -34,5 +34,23 @@ A task management app that helps users organize their daily tasks. Built with Fl
  
 -  📫 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/yourusername) or [Twitter](https://twitter.com/yourusername). I'm always up for discussions about Flutter, mobile development, and all things tech!
 
+---
 
+### 🧰 Languages and Tools
+
+<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmywales&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
 
