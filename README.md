@@ -1,6 +1,6 @@
 ### ADEWALE EMMANUEL 
 
-** "Computer Science Student(Mobile Developper)."
+Computer Science Student(Mobile Developper).
 
 
 My name is Adewale Emmanuel Adeyanju a student of Bowen University in my final year. I am a mobile developer using Flutter and Dart. I love playing basketball.
